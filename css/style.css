@@ -1,0 +1,36 @@
+body{
+    background: rgb(215, 243, 174);
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+header{
+    margin-top: 100px;
+}
+
+h1{
+    color: rgb(44, 85, 44);
+    
+}
+
+p{
+    color: rgb(44, 85, 44);
+    font-size: 18px;
+}
+
+h2{
+    color:rgb(44, 85, 44);
+}
+
+.img_padrao {
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+.logo{
+    width: 30px;
+}
+    
+footer{
+    margin-bottom: 20px;
+}
